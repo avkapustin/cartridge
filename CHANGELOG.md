@@ -23,6 +23,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Changed
 
 - Get UI components from Tarantool UI-Kit
+- Use edit_topology mutation instead of deprecated methods in UI
 
 ### Fixed
 
